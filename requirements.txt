@@ -1,0 +1,38 @@
+# FastAPI and Server
+fastapi
+uvicorn
+python-multipart
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# Google AI (Primary - for both embeddings and LLM)
+google-generativeai
+langchain-google-genai
+
+# OpenAI (Optional)
+#langchain-openai
+
+# Vector Store and ML
+faiss-cpu
+numpy
+
+# Data Models and Validation
+pydantic
+pydantic-settings
+
+# Security
+python-jose[cryptography]
+passlib[bcrypt]
+
+# File Handling
+aiofiles
+pypdf
+python-markdown
+
+# Text Processing and Utilities
+tiktoken
+Markdown
+asyncio-throttle
